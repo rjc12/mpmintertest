@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x394308f9eb9a0c6ca5e80b140b0d120e04f11e56",
-  "SCAN_LINK": "https://baobab.scope.klaytn.com/account/0x394308f9eb9a0c6ca5e80b140b0d120e04f11e56",
+  "CONTRACT_ADDRESS": "0x59f825158b7f0f58C6Ba80B1189051C3DC2CcB59",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x59f825158b7f0f58c6ba80b1189051c3dc2ccb59",
   "NETWORK": {
-    "NAME": "Klaytn Baobab",
-    "SYMBOL": "KLAY",
-    "ID": 1001
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "Wakaguku",
-  "SYMBOL": "WG",
-  "MAX_SUPPLY": 10,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "NFT_NAME": "MetaPunks",
+  "SYMBOL": "MP",
+  "MAX_SUPPLY": 9000,
+  "WEI_COST": 35000000000000000,
+  "DISPLAY_COST": 0.035,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/wakaguku",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metapunks-cyd6urehuu",
   "SHOW_BACKGROUND": true
 }
